@@ -1,11 +1,7 @@
 h1 {
     font-style: italic;
-}
-.center {
     text-align: center;
-    border: 3px solid rgb(24, 100, 185);
 }
 body {
-        text-align: center;
-        border: 3px solid green;
+    text-align: center;
 }
