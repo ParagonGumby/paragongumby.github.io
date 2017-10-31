@@ -4,7 +4,7 @@ h1 {
 }
 body {
     text-align: center;
-ul {
+ul#list {
     list-style-type: none;
     margin: 0;
     padding: 0;
