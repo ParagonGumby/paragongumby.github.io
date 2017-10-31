@@ -5,6 +5,8 @@ h1 {
 body {
     text-align: center;
 }
-head {
+ul {
     list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
