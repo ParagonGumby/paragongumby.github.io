@@ -5,6 +5,7 @@ h1 {
 body {
     text-align: center;
     background-image: url("https://i.imgur.com/AeZ5xWe.jpg");
+    background-size: 80px 60px;
     background-repeat: no-repeat;
 }
 ul {
