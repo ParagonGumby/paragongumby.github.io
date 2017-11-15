@@ -3,10 +3,42 @@ h1 {
     text-align: center;
 }
 body {
+    margin: 0;
+    padding: 0;
+    font-family: 'arial', serif;
     text-align: center;
 }
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
+.nav {
+    background-color: #ffffff;
+    color: #00000;
+    list-style: none;
+    text-align: right;
+    padding: 20px 0 20px 0;
+}
+.nav > li {
+    display: inline-block;
+    padding: 0 25px 0 25px;
+    font-size: 12px;
+}
+.nav > li > a {
+    text-decoration: none;
+    color: #000000
+}
+.nav > li > a:hover {
+    color: #c1c1c1
+}
+.logo {
+    color: #000000
+    float: left;
+    padding-left: 15px;
+    font-size: 16px:
+}
+.logo < a {
+    text-decoration: none;
+    color: #000000;
 }
